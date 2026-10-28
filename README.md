@@ -24,8 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-7cnGaRvPvR)
-- Live Site URL: [Live Site](https://nikita-cheropkin.github.io/FrontendManorProject-4/qr-code-component/index.html)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profile-card-component-DTS1Tvy5-7)
+- Live Site URL: [Live Site](https://nikita-cheropkin.github.io/FrontendMentorProject-13/profile-card-component/site26.html)
 
 ## My process
 
